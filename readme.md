@@ -48,6 +48,8 @@ console.log("New array using map ", mapTotal);
 
 ## Create a new array containing only the total amounts from the orders `order-total-new-array.js`.
 
+---
+
 ```javascript
 const students = [
 	{ id: 1, name: "David", grade: "A" },
